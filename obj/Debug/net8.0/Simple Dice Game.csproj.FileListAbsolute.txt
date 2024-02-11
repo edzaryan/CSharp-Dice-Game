@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\Simple Dice Game\bin\Debug\net8.0\Simple Dice Game.exe
+C:\Users\Dell\OneDrive\Desktop\Simple Dice Game\bin\Debug\net8.0\Simple Dice Game.deps.json
+C:\Users\Dell\OneDrive\Desktop\Simple Dice Game\bin\Debug\net8.0\Simple Dice Game.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Simple Dice Game\bin\Debug\net8.0\Simple Dice Game.dll
+C:\Users\Dell\OneDrive\Desktop\Simple Dice Game\bin\Debug\net8.0\Simple Dice Game.pdb
+C:\Users\Dell\OneDrive\Desktop\Simple Dice Game\obj\Debug\net8.0\Simple Dice Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\Simple Dice Game\obj\Debug\net8.0\Simple Dice Game.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Simple Dice Game\obj\Debug\net8.0\Simple Dice Game.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Simple Dice Game\obj\Debug\net8.0\Simple Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Simple Dice Game\obj\Debug\net8.0\Simple Dice Game.dll
+C:\Users\Dell\OneDrive\Desktop\Simple Dice Game\obj\Debug\net8.0\refint\Simple Dice Game.dll
+C:\Users\Dell\OneDrive\Desktop\Simple Dice Game\obj\Debug\net8.0\Simple Dice Game.pdb
+C:\Users\Dell\OneDrive\Desktop\Simple Dice Game\obj\Debug\net8.0\Simple Dice Game.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\Simple Dice Game\obj\Debug\net8.0\ref\Simple Dice Game.dll
